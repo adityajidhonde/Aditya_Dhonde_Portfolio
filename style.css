@@ -410,6 +410,7 @@ nav .fa-regular,nav .fa-solid{
     .sticky {
         position: fixed;
         width: 95%;
+        z-index: 100;
       }
     .sticky + .content {
         padding-top: 60px;
